@@ -1,0 +1,13 @@
+.top-header {
+  background-color: azure;
+  padding: 5%;
+}
+
+img{
+  padding: 3%;
+  background: gainsboro;
+}
+
+.prompt{
+    display: none;
+}
